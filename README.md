@@ -9,7 +9,7 @@ In this bachelorthesis a step towards combining NKMs with the often superior, no
 
 #### Comparison of Forecasting Performance
 
-![Comparison of Forecasting Performance](https://github.com/maltetoelle/economics-informed-neural-networks/blob/main/comparison_forecasting_performance.pdf?raw=true)
+![Comparison of Forecasting Performance](https://https://github.com/maltetoelle/economics-informed-neural-networks/blob/main/comparison_forecasting_preformance.pdf?raw=true)
 
 ## Replication:
 
